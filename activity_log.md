@@ -6,3 +6,4 @@
 - [2026-04-07T15:25:17Z] docs: improve inline documentation
 - [2026-04-07T18:31:27Z] fix: resolve edge case in input validation
 - [2026-04-07T19:52:16Z] perf: optimize loop for better performance
+- [2026-04-09T22:26:33Z] fix: handle null pointer exception
